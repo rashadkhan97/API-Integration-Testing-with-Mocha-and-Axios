@@ -13,6 +13,7 @@ Integration test suite covering the full dMoney transaction flow — user onboar
 - [Test Scenarios](#test-scenarios)
 - [Fee / Commission Rules Verified](#fee--commission-rules-verified)
 - [Project Structure](#project-structure)
+- [Console log Output](#console-log-Output)
 - [Notes](#notes)
 
 ## Tech Stack
@@ -110,6 +111,8 @@ Each user's phone number and JWT token from one step is reused as input for the 
 ├── package.json      # dependencies + npm test script
 └── README.md
 ```
+
+## Console log Output
 
 ## Notes
 
