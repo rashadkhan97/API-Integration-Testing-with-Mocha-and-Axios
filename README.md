@@ -115,8 +115,9 @@ Each user's phone number and JWT token from one step is reused as input for the 
 ## Console log Output
 <img width="1018" height="239" alt="image" src="https://github.com/user-attachments/assets/9d4ed1b6-ca0b-41dd-89be-206c9c5b96ec" />
 <img width="1017" height="202" alt="image" src="https://github.com/user-attachments/assets/a53e4e0e-8a60-444e-bc00-11b8cde07816" />
-<img width="1003" height="155" alt="image" src="https://github.com/user-attachments/assets/2e99a9dd-ad76-465b-aeea-8c7c889057f5" />
-<img width="958" height="269" alt="image" src="https://github.com/user-attachments/assets/2621e213-9b12-4e1f-817f-5b827aa321b4" />
+<img width="1009" height="166" alt="image" src="https://github.com/user-attachments/assets/c5839368-51da-44fa-ac26-c2bfa686efa7" />
+<img width="1016" height="277" alt="image" src="https://github.com/user-attachments/assets/1983c248-3870-4940-9a20-d6d45c470cb1" />
+
 
 
 ## Notes
